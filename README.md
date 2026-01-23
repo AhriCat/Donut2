@@ -227,9 +227,9 @@ If you use Donut in your research, please cite:
 ```bibtex
 @software{donut2025,
   title={Donut: A Toroidal Transformer with Geometric Epistemics},
-  author={[Your Name]},
+  author={Ahri Steele},
   year={2025},
-  url={https://github.com/[your-username]/donut}
+  url={https://github.com/AhriCat/donut}
 }
 ```
 
