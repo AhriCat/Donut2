@@ -79,7 +79,7 @@ Attention and SSM/RNN run in parallel, not sequential. Attention handles sparse,
 ## Installation
 
 ```bash
-git clone https://github.com/[your-username]/donut.git
+git clone https://github.com/AhriCat/donut.git
 cd donut
 pip install torch numpy
 ```
